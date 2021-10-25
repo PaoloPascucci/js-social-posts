@@ -8,20 +8,20 @@ const Object = [
     {
         id: '1',
         content: 'Placeat libero ipsa quibusdam quas harum ut. Distictio minima iusto. Ad ad maiores et sint voluptate reusandae architrcto. Et nihil ullam aut alias.',
-        image: 'https://picsum.photos',
+        image: 'https://picsum.photos/600/350',
         date: '4 mesi fa',
         Nlikes: 80,
         name: 'Phil Mangione',
-        avatar: 'https://picsum.photos'
+        avatar: 'https://picsum.photos/50'
     },
     {
         id: '2',
         content: 'Placeat libero ipsa quibusdam quas harum ut. Distictio minima iusto. Ad ad maiores et sint voluptate reusandae architrcto. Et nihil ullam aut alias.',
-        image: 'https://picsum.photos',
+        image: 'https://picsum.photos/600/350',
         date: '2 mesi fa',
         Nlikes: 100,
         name: 'Sofia Perlari',
-        avatar: 'https://picsum.photos'
+        avatar: 'https://picsum.photos/50'
     }
 ];
 
