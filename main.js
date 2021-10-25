@@ -43,7 +43,7 @@ for (let i = 0; i < Object.length; i++) {
                         </div>
     <div class="card-img"><img src="${Post.image}" alt=""></div>
     <div class="row card_text gx-0">
-        <div class="col fw-bold"><i class="fas fa-thumbs-up"></i>Mi Piace</div>
+        <div class="col fw-bold"><i class="fas fa-thumbs-up"></i> Mi Piace</div>
         <div class="col fw-bold">Piace a ${Post.Nlikes} persone</div>
     </div>
     </div>
